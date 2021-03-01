@@ -11,6 +11,6 @@ For the analysis I use for loop to loop through arrays (tickers, tickerVolumes, 
 <br/> ![VBA_Challenge_2018.png](https://github.com/xujenny98/VBA_Challenge/blob/main/Resource/VBA_Challenge_2018.png) ![VBA_Challenge2_2018.png](https://github.com/xujenny98/VBA_Challenge/blob/main/Resource/VBA_Challenge2_2018.png)
 
 # Summary
-The advantage of refactoring code which it improves internal structure without changing or adding to its external behavior and functionality. In terms of this particular analysis it really improved the result when we refactored the code. However the disadvantage of using the refactoring is that if we change the dataset structure or insert any columns in between, it will show incorrect results as the information it is picking up is hardcoded and thus will not reflect what the user needs.
+The advantage of refactoring code is to improves internal structure without changing or adding to its external behavior and functionality. In terms of this particular analysis it really improved the result when we refactored the code. However the disadvantage of using the refactoring is that if we change the dataset structure or insert any columns in between, it will show incorrect results as the information it is picking up is hardcoded and thus will not reflect what the user needs.
 
 
