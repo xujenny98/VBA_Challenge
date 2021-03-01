@@ -1,6 +1,6 @@
 # VBA of Wall Street
 # Overview of Project
-The purpose of this project is to analyze 2017, 2018 all stocks performance using the visual basic application. In additional using the refactoring code to determine whether refactoring code would make VBA scrip run faster and yeilds a better result.
+The purpose of this project is to analyze 2017, 2018 all stocks performance using the visual basic for application. In additional using the refactoring code to determine whether refactoring code would make VBA scrip run faster and yeilds a better result.
 
 # Results
 For the analysis I use for loop to loop through arrays (tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices) to output the “Ticker,” “Total Daily Volume,” and “Return” columns in the spreadsheet.Then I use the If-then to check if current row is the first row or last row with the selected TickerIndex.  If the TickerIndex is in the first row assign the current closing price to the tickerSatrtingPrice and If it is in the last row assign the current closing price to the tickerEndingPrice. In addition I use the refactoring code to measure performance.  
