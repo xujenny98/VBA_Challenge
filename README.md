@@ -4,5 +4,7 @@ The purpose of this project is to analyze 2017 and 2018 all stocks performance u
 
 # Results
 Bases on the analysis 2017 is a good year to invest. The highest return in year 2017 is 199.4% for DQ corp and the lowest is -7.2% for TERP.  However 2018 is not a good year to invest.  Based on the all stocks analysis for 2018 almost all stocks have a negative return except for ENPH and RUN. Considering overall results, it would be better to go with ENPH stocks as it has the most favorable result (132% & 82% over two years.)
+![2017 AllStocksAnalysis.png](2017 AllStocksAnalysis.png) 
+![2018 AllStocksAnalysis.png](2018 AllStocksAnalysis.png)
 
 # Summary
